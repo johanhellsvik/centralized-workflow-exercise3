@@ -1,0 +1,3 @@
+useful Git trick to include line number stats:
+
+$ git diff --stat
